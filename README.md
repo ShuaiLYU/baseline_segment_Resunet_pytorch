@@ -11,10 +11,23 @@
   
   
 **visualization:**
+### 分割结果：
+![1](https://github.com/Wslsdx/baseline_segment_Resunet_pytorch/blob/master/photo/Train_0576.png)
+![2](https://github.com/Wslsdx/baseline_segment_Resunet_pytorch/blob/master/photo/Train_0588.png)
+![3](https://github.com/Wslsdx/baseline_segment_Resunet_pytorch/blob/master/photo/Train_0609.png)
 
- ![step_loss](https://github.com/Wslsdx/baseline_segment_Resunet_pytorch/blob/master/photo/step_loss.png)
+### 损失曲线：
+
+![step_loss](https://github.com/Wslsdx/baseline_segment_Resunet_pytorch/blob/master/photo/step_loss.png)
+
+### 训练集IOU：
+
+![iou_train](https://github.com/Wslsdx/baseline_segment_Resunet_pytorch/blob/master/photo/iou_train.png)
+
+### 验证集IOU：
+
+![iou_valid](https://github.com/Wslsdx/baseline_segment_Resunet_pytorch/blob/master/photo/iou_valid.png)
  
-```
 
-```
+ 
   
