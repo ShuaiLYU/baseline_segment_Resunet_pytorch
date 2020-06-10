@@ -11,6 +11,13 @@
   4.  训练过程中保存预测结果
   5.  参数结构化管理
   
+  
+  
+**visualization:**
 
-## log 
+ ![step_loss](https://github.com/Wslsdx/baseline_segment_Resunet_pytorch/blob/master/photo/step_loss.png)
+ 
+```
+
+```
   
