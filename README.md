@@ -12,9 +12,11 @@
   
 **visualization:**
 ### 分割结果：
-![1](https://github.com/Wslsdx/baseline_segment_Resunet_pytorch/blob/master/photo/Train_0576.png)
-![2](https://github.com/Wslsdx/baseline_segment_Resunet_pytorch/blob/master/photo/Train_0588.png)
-![3](https://github.com/Wslsdx/baseline_segment_Resunet_pytorch/blob/master/photo/Train_0609.png)
+![1](https://github.com/Wslsdx/baseline_segment_Resunet_pytorch/blob/master/photo/Train_0576.PNG)
+
+![2](https://github.com/Wslsdx/baseline_segment_Resunet_pytorch/blob/master/photo/Train_0588.PNG)
+
+![3](https://github.com/Wslsdx/baseline_segment_Resunet_pytorch/blob/master/photo/Train_0609.PNG)
 
 ### 损失曲线：
 
