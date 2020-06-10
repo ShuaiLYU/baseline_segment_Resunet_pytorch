@@ -27,7 +27,7 @@ PARAM.dataloader_valid = Param(batch_size=32,
 PARAM.model = Param(n_classes=1, #类别数，二分类所以为1
                     level=4,
                     b_RGB=False,
-                    base_channels=16
+                    base_channels=32
                     ) # 0-1值
 
 PARAM.Adam = Param(
