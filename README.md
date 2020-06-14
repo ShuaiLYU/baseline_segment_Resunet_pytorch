@@ -3,7 +3,7 @@
 ## 数据集
 1. Weakly Supervised Learning for Industrial Optical Inspection（https://hci.iwr.uni-heidelberg.de/node/3616）
   这个链接中有10个不同的数据集，我们对2,4,8,10进行了像素级别标注，数据集和像素标注放在下面的百度网盘链接中：
-  链接：https://pan.baidu.com/s/1zvFAT0h6u4cYi3WEqfYOTg 提取码：x5lw （使用请注明数据来源：本仓库地址）
+  链接：https://pan.baidu.com/s/1fkmUTPH0Di8p2C7A8P0fbg  提取码：tpnb  （使用请注明数据来源：本仓库地址）
 
 2. 参考本仓库配置自己的数据集。
 
