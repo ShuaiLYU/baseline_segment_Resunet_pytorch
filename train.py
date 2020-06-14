@@ -26,7 +26,7 @@ transform={"train": my_transforms.ComposeJoint([
 
 train_data = WSLDataset_split(transform_PIL=transform["train"],**(PARAM.dataset_train))
 #使用WeightedRandomSampler解决训练样本不平衡的问题
-weights=[ 1 if data[2]==0 else  6 for data in train_data ] #正负样本采样1:6
+weights=[ 1 if data[2]==0 else  6 for data in train_data ] #正负样本采样6:1
 sampler=WeightedRandomSampler(weights=weights,num_samples=len(train_data),replacement=True)
 PARAM.dataloader_train.shuffle=False #自定义sampler和DataLoader的shuffle参数互斥
 train_loader = DataLoader(train_data,sampler=sampler, **(PARAM.dataloader_train))
